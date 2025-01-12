@@ -1,2 +1,2 @@
-- Hi guys, there is lzy, a undergrad from the School of Instrument Science and Opto-electronic Engineering, Hefei Uinversity of Technology, Anhui province, China.
-- Currently learning the spectral shaping techonology used in optical coherence tomography, welcome to discuss me with this email: 20222215177@mail.hfut.edu.cn or with this: lzy@xy.hfut.edu.cn.
+- Hi guys, there is lzy, an undergrad from the School of Instrument Science and Opto-electronic Engineering, Hefei Uinversity of Technology, Anhui province, China.
+- Currently learning the spectral shaping techonology used in optical coherence tomography, welcome to discuss me with this email: 2022215177@mail.hfut.edu.cn or with this: lzy@xy.hfut.edu.cn.
